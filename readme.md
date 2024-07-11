@@ -12,7 +12,7 @@ This project processes a map of URLs and their associated technology stacks, sim
 
 ### Clone the repository:
 ```bash
-   git clone <repository-url>
+   git clone https://github.com/arjanoop/KotlinChallenge.git
    cd KotlinChallenge
  ```
 
